@@ -5,7 +5,7 @@
 <p align="left">
 
 
-<a href="www.linkedin.com/in/marcelo-tavares-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marcelo-tavares-dev"/></a>
+<a href="www.linkedin.com/in/marcelo-tavares-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/marcelo-tavares-dev"/></a>
 <a href = "marcelotavaresdossantos99@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="marcelotavaresdossantos99@"  /></a>
   </p>
 <br>
